@@ -1,0 +1,2 @@
+rootProject.name = "TomatoDiseaseClassificationApp"
+include ':app'
